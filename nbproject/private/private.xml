@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/dolch/OneDrive/Documents/NetBeansProjects/PhoneCallRecord/src/view/AddEmployee.java</file>
+            <file>file:/C:/Users/dolch/OneDrive/Documents/NetBeansProjects/PhoneCallRecord/src/model/RecordModel.java</file>
+            <file>file:/C:/Users/dolch/OneDrive/Documents/NetBeansProjects/PhoneCallRecord/src/view/CallRecordDash.java</file>
+            <file>file:/C:/Users/dolch/OneDrive/Documents/NetBeansProjects/PhoneCallRecord/src/DAO/impl/UserDAOImpl.java</file>
+            <file>file:/C:/Users/dolch/OneDrive/Documents/NetBeansProjects/PhoneCallRecord/src/DAO/ReportDAO.java</file>
+            <file>file:/C:/Users/dolch/OneDrive/Documents/NetBeansProjects/PhoneCallRecord/src/view/AddReport.java</file>
+            <file>file:/C:/Users/dolch/OneDrive/Documents/NetBeansProjects/PhoneCallRecord/src/view/DeleteEmployee.java</file>
+            <file>file:/C:/Users/dolch/OneDrive/Documents/NetBeansProjects/PhoneCallRecord/src/view/AddRecord.java</file>
+            <file>file:/C:/Users/dolch/OneDrive/Documents/NetBeansProjects/PhoneCallRecord/src/view/EmployeeDash.java</file>
+            <file>file:/C:/Users/dolch/OneDrive/Documents/NetBeansProjects/PhoneCallRecord/src/view/EditEmployee.java</file>
+            <file>file:/C:/Users/dolch/OneDrive/Documents/NetBeansProjects/PhoneCallRecord/src/dbconfig/DbConnection.java</file>
+            <file>file:/C:/Users/dolch/OneDrive/Documents/NetBeansProjects/PhoneCallRecord/src/controller/AdminController.java</file>
+            <file>file:/C:/Users/dolch/OneDrive/Documents/NetBeansProjects/PhoneCallRecord/src/view/Login.java</file>
+            <file>file:/C:/Users/dolch/OneDrive/Documents/NetBeansProjects/PhoneCallRecord/src/model/AdminModel.java</file>
+            <file>file:/C:/Users/dolch/OneDrive/Documents/NetBeansProjects/PhoneCallRecord/src/view/EditReport.java</file>
+            <file>file:/C:/Users/dolch/OneDrive/Documents/NetBeansProjects/PhoneCallRecord/src/DAO/impl/EmployeeDAOImpl.java</file>
+            <file>file:/C:/Users/dolch/OneDrive/Documents/NetBeansProjects/PhoneCallRecord/src/controller/UserController.java</file>
+            <file>file:/C:/Users/dolch/OneDrive/Documents/NetBeansProjects/PhoneCallRecord/src/controller/ReportController.java</file>
+            <file>file:/C:/Users/dolch/OneDrive/Documents/NetBeansProjects/PhoneCallRecord/src/DAO/impl/AdminDAOImpl.java</file>
+            <file>file:/C:/Users/dolch/OneDrive/Documents/NetBeansProjects/PhoneCallRecord/src/DAO/AdminDAO.java</file>
+            <file>file:/C:/Users/dolch/OneDrive/Documents/NetBeansProjects/PhoneCallRecord/src/view/DeleteRecord.java</file>
+            <file>file:/C:/Users/dolch/OneDrive/Documents/NetBeansProjects/PhoneCallRecord/src/DAO/impl/ReportDAOImpl.java</file>
+            <file>file:/C:/Users/dolch/OneDrive/Documents/NetBeansProjects/PhoneCallRecord/src/DAO/RecordDAO.java</file>
+            <file>file:/C:/Users/dolch/OneDrive/Documents/NetBeansProjects/PhoneCallRecord/src/view/Dashboard.java</file>
+            <file>file:/C:/Users/dolch/OneDrive/Documents/NetBeansProjects/PhoneCallRecord/src/model/ReportModel.java</file>
+            <file>file:/C:/Users/dolch/OneDrive/Documents/NetBeansProjects/PhoneCallRecord/src/controller/EmployeeController.java</file>
+            <file>file:/C:/Users/dolch/OneDrive/Documents/NetBeansProjects/PhoneCallRecord/src/DAO/impl/RecordDAOImpl.java</file>
+            <file>file:/C:/Users/dolch/OneDrive/Documents/NetBeansProjects/PhoneCallRecord/src/DAO/UserDAO.java</file>
+            <file>file:/C:/Users/dolch/OneDrive/Documents/NetBeansProjects/PhoneCallRecord/src/model/UserModel.java</file>
+            <file>file:/C:/Users/dolch/OneDrive/Documents/NetBeansProjects/PhoneCallRecord/src/view/ReportDash.java</file>
+            <file>file:/C:/Users/dolch/OneDrive/Documents/NetBeansProjects/PhoneCallRecord/src/model/EmployeeModel.java</file>
+            <file>file:/C:/Users/dolch/OneDrive/Documents/NetBeansProjects/PhoneCallRecord/src/view/UserRegistration.java</file>
+            <file>file:/C:/Users/dolch/OneDrive/Documents/NetBeansProjects/PhoneCallRecord/src/controller/RecordController.java</file>
+            <file>file:/C:/Users/dolch/OneDrive/Documents/NetBeansProjects/PhoneCallRecord/src/DAO/EmployeeDAO.java</file>
+            <file>file:/C:/Users/dolch/OneDrive/Documents/NetBeansProjects/PhoneCallRecord/src/view/DeleteReport.java</file>
+        </group>
+    </open-files>
+</project-private>
